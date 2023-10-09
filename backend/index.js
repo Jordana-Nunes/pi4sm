@@ -376,7 +376,7 @@ let carros = [
         'carroceria' : 'hatch',
         'condição' : 'USado',
         'tabela FIPE' : 'R$153.734,00'
-    },
+    }
 ]
 
 
